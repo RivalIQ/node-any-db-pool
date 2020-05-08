@@ -16,9 +16,9 @@
     "url": "https://github.com/grncdr/node-any-db-pool/issues"
   },
   "dependencies": {
-    "generic-pool": "2.4.2",
-    "any-db-transaction": "0.0.1",
-    "once": "1.4.0"
+    "generic-pool": "^2.0.2",
+    "any-db-transaction": "~0.0.1",
+    "once": "~1.1.1"
   },
   "devDependencies": {
     "tape": "~2.3.2",
